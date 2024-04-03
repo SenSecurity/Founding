@@ -4,9 +4,7 @@
 
 
 ## Description
-
-
-
+The Tool receives a Shellcode in .bin format, Obfuscates or Encrypts this shellcode and then runs utilizing some execution techniques.
 
 **The tool has the following features for Encryption and Obfuscation:**
 
