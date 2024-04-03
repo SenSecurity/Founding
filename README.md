@@ -17,11 +17,15 @@ The Tool receives a Shellcode in .bin format, Obfuscates or Encrypts this shellc
 - Randomly generated encryption keys on every run
 
 **The tool has the following features for Executing the Payload:**
-- Supports createThread to run the shellcode
+- Supports Executes the Shellcode utilizing Asynchronous Procedure Calls
 
-- Supports function pointer to run the shellcode
+- Supports Executes the Shellcode utilizing Asynchronous Procedure Calls with a Remote Debug Process
 
-- Supports process injection to inject shellcode on a running process
+- Supports Executes the Shellcode utilizing Asynchronous Procedure Calls with a Remote Suspended Process
+
+- Supports Executes the Shellcode utilizing Callback function EnumThreadWindows
+
+- Supports Executes the Shellcode utilizing Local Mapping and Thread in Suspend State
 
 
 ## Usage
