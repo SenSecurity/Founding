@@ -1,10 +1,8 @@
 # Founding
 <img src='/Founding/Eren.png' width='800'>
 
-
-
 ## Description
-The Tool receives a Shellcode in .bin format, Obfuscates or Encrypts this shellcode and then runs utilizing some execution techniques.
+The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or Encrypts this shellcode and then runs utilizing some execution techniques.
 
 **The tool has the following features for Encryption and Obfuscation:**
 
@@ -26,7 +24,6 @@ The Tool receives a Shellcode in .bin format, Obfuscates or Encrypts this shellc
 - Supports executes the Shellcode utilizing Callback function EnumThreadWindows
 
 - Supports executes the Shellcode utilizing Local Mapping and Thread in Suspend State
-
 
 ## Usage
 ```bash
