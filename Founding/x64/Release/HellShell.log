@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\HellShell\main.c(19,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\HellShell\main.c(173,3): warning C4013: 'Headers' undefined; assuming extern returning int
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\HellShell\main.c(295,9): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\HellShell\main.c(102,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\HellShell\main.c(108,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\HellShell\main.c(112,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\HellShell\main.c(116,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating code
+  0 of 29 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HellShell.vcxproj -> C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\x64\Release\Founding.exe

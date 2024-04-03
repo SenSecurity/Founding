@@ -1,0 +1,35 @@
+﻿  Encryption.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(103,7): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(91,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(121,11): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(122,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(124,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(128,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(224,55): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+  Injection.c
+  main.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(19,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(173,3): warning C4013: 'Headers' undefined; assuming extern returning int
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(295,9): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(102,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(108,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(112,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(116,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  IO.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(42,52): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(18,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(19,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(55,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Obfuscation.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(37,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(97,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(170,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(233,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+  StringFunctions.c
+  Generating Code...
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(28): warning C4172: returning address of local variable or temporary: result
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(91): warning C4172: returning address of local variable or temporary: Output
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(162): warning C4172: returning address of local variable or temporary: result
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(225): warning C4172: returning address of local variable or temporary: Output
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(84): warning C4716: 'XorByInputKey': must return a value
+  Founding.vcxproj -> C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\x64\Debug\Founding.exe

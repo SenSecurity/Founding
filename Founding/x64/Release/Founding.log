@@ -1,0 +1,36 @@
+﻿  Encryption.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(103,7): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(91,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(121,11): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(122,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(124,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(128,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Encryption.c(224,55): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+  IO.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(40,52): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(16,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(17,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(54,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(82,41): warning C4133: 'function': incompatible types - from 'char *' to 'LPCWSTR'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\IO.c(82,56): warning C4133: 'function': incompatible types - from 'char [260]' to 'LPWSTR'
+  Injection.c
+  Obfuscation.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(37,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(97,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(170,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\Obfuscation.c(233,50): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+  StringFunctions.c
+  main.c
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(20,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(211,3): warning C4013: 'Headers' undefined; assuming extern returning int
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(355,9): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(127,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(133,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(137,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\Founding\main.c(141,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating code
+  1 of 32 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Founding.vcxproj -> C:\Users\MALDEV01\Desktop\My Projects\The_Founding2.0\Founding\x64\Release\Founding.exe
