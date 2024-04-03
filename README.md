@@ -1,5 +1,5 @@
 # Founding
-
+![GitHub Logo](/Founding/Eren.png)
 **The tool has the following features for Encryption and Obfuscation:**
 
 - Supports IPv4/IPv6/MAC/UUID Obfuscation
@@ -19,7 +19,6 @@
 
 
 ## Usage
-![GitHub Logo](/Founding/Eren.png)
 ```bash
 The_Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type>
 ```
