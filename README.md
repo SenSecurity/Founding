@@ -1,5 +1,5 @@
 # Founding
-<img src='/Founding/Eren.png' width='700'>
+<img src='/Founding/Eren.png' width='750'>
 **The tool has the following features for Encryption and Obfuscation:**
 
 - Supports IPv4/IPv6/MAC/UUID Obfuscation
