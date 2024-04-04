@@ -42,12 +42,14 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 ### Example Command
 ```bash
 donut.exe --input:mimikatz.exe --output:mimi.bin
-...
+```
+```bash
 Founding.exe mimi.bin aes APC --compile
+```
 ...
 Compilation successful.
 Shinzo wo Sasageyo! Erwin.exe Created.
-```
+
 ### Note
 - Shellcodes that need an interactive shell like mimikatz can't be used with Remote Process techniques.
 - To utilize the compile functionality I recommend downloading the releases because it will have all the necessary dependencies.
