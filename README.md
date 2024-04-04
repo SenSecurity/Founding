@@ -49,7 +49,7 @@ Compilation successful.
 Shinzo wo Sasageyo! Erwin.exe Created.
 ```
 ## Credits
-- Some techniques used learnt from [Maldev Academy](https://maldevacademy.com), it is an awesome course, highly recommended
+- Some techniques used learnt from [Maldev Academy](https://maldevacademy.com), it is an awesome course, highly recommend
 - Inspired by [HellShell](https://github.com/NUL0x4C/HellShell)
 
 
