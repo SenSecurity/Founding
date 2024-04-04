@@ -44,5 +44,9 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 donut.exe --input:mimikatz.exe --output:mimi.bin
 The_Founding.exe mimi.bin aes APC --compile
 ```
+## Credits
+- Some techniques used learnt from [Maldev Academy](https://maldevacademy.com), it is an awesome course, highly recommended
+- Inspired by [HellShell](https://github.com/NUL0x4C/HellShell)
+
 
 
