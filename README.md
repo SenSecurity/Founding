@@ -1,5 +1,5 @@
 # Founding
-<img src='/Founding/Eren.png' width='800'>
+
 ![GitHub Logo](/Founding/Eren.png)
 
 ## Description
