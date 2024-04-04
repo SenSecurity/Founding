@@ -46,7 +46,7 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 The_Founding.exe mimi.bin aes APC --compile
 ...
 Compilation successful.
-Shinzo wo Sasageyo'!' Erwin.exe Created.
+Shinzo wo Sasageyo! Erwin.exe Created.
 ```
 ## Credits
 - Some techniques used learnt from [Maldev Academy](https://maldevacademy.com), it is an awesome course, highly recommended
