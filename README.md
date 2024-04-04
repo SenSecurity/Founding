@@ -29,11 +29,11 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 <img src='/Founding/Usage.png'>
 
 ```bash
-The_Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type>
+Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type> <Optional flag>
 ```
 ## Example Command
 ```bash
-The_Founding.exe .\calc.bin aes process_injection
+The_Founding.exe .\calc.bin aes APC --compile
 ```
 
 
