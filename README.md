@@ -15,7 +15,7 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 
 - Randomly generated encryption keys on every run
 
-### The tool has the following features for Executing the Payload:
+### The tool has the following features for Executing the Shellcode:
 - Supports executes the Shellcode utilizing Asynchronous Procedure Calls
 
 - Supports executes the Shellcode utilizing Asynchronous Procedure Calls with a Remote Debug Process
