@@ -31,7 +31,7 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 ```bash
 Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type> <Optional flag>
 ```
-## Utilizing Donut to generate the Shellcode
+### Utilize Donut to generate the Shellcogoode
 
 To help generating shell I added to the release [donut](https://github.com/TheWover/donut), this project will generate .bin shellcode providing .exe binarie that we want to run.
 ```bash
