@@ -27,6 +27,7 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 
 ## Usage
 <img src='/Founding/Usage.png'>
+
 ```bash
 The_Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type>
 ```
