@@ -3,7 +3,7 @@
 ![GitHub Logo](/Founding/Eren.png)
 
 ## Description
-The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or Encrypts this shellcode and then generates a new binarie utilizing some execution techniques.
+The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or Encrypts this shellcode and then generates a new binary utilizing some execution techniques.
 
 ### The tool has the following features for Encryption and Obfuscation:
 
@@ -34,7 +34,7 @@ Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution ty
 ```
 ### Utilize Donut to generate the Shellcode
 
-To help generating shellcode I added to the releases [donut](https://github.com/TheWover/donut), using this project we can provide an .exe binarie that we want to run and donut will generate .bin shellcode.
+To help generating shellcode I added to the releases [donut](https://github.com/TheWover/donut), using this project we can provide an .exe binary that we want to run and donut will generate .bin shellcode.
 ```bash
 donut.exe --input:mimikatz.exe --output:mimi.bin
 ```
