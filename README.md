@@ -3,7 +3,7 @@
 ![GitHub Logo](/Founding/Eren.png)
 
 ## Description
-The Founding is a tool that receives a Shellcode in ```.bin``` format, Obfuscates or Encrypts this shellcode and then generates a new binary utilizing some execution techniques.
+Founding is a tool that receives a Shellcode in ```.bin``` format, Obfuscates or Encrypts this shellcode and then generates a new binary utilizing some execution techniques.
 
 ### The tool has the following features for Encryption and Obfuscation:
 
