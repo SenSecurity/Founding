@@ -50,7 +50,7 @@ Shinzo wo Sasageyo! Erwin.exe Created.
 ```
 ### Note
 - Shellcodes that need an interactive shell like mimikatz can't be used with Remote Process techniques.
-- To utilize the --compile function I recommend download the releases that have all the necessary dependencies.
+- To utilize the compile functionality I recommend download the releases because it will have all the necessary dependencies.
 
 ## Credits
 - Some techniques used learnt from [Maldev Academy](https://maldevacademy.com), it is an awesome course, highly recommend
