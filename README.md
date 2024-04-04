@@ -40,7 +40,7 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 
 ### Example Command
 ```bash
-./donut --input:mimikatz.exe --output:mimi.bin
+donut.exe --input:mimikatz.exe --output:mimi.bin
 The_Founding.exe mimi.bin aes APC --compile
 ```
 
