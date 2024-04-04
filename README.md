@@ -26,7 +26,7 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 - Supports executes the Shellcode utilizing Local Mapping and Thread in Suspend State
 
 ## Usage
-<img src='/Founding/Usage.png' width='1200'>
+<img src='/Founding/Usage.png' width='1400'>
 
 ```bash
 Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type> <Optional flag>
