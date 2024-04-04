@@ -5,6 +5,8 @@
 ## Description
 The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or Encrypts this shellcode and then generates a new binarie utilizing some execution techniques.
 
+###The tool has the following features for Encryption and Obfuscation:
+
 **The tool has the following features for Encryption and Obfuscation:**
 
 - Supports IPv4/IPv6/MAC/UUID Obfuscation
