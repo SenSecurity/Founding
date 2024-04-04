@@ -42,7 +42,8 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 ### Example Command
 ```bash
 donut.exe --input:mimikatz.exe --output:mimi.bin
-...
+
+
 [ Donut shellcode generator v1 (built Mar  3 2023 13:33:22)
   [ Copyright (c) 2019-2021 TheWover, Odzhan
 
@@ -58,7 +59,8 @@ donut.exe --input:mimikatz.exe --output:mimi.bin
 ```
 ```bash
 Founding.exe mimi.bin aes APC --compile
-...
+
+
 Compilation successful.
 Shinzo wo Sasageyo! Erwin.exe Created.
 ```
