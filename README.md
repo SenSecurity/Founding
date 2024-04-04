@@ -1,5 +1,6 @@
 # Founding
 <img src='/Founding/Eren.png' width='800'>
+![GitHub Logo](/Founding/Eren.png)
 
 ## Description
 The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or Encrypts this shellcode and then generates a new binarie utilizing some execution techniques.
@@ -27,7 +28,6 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 
 ## Usage
 ![GitHub Logo](/Founding/Usage.png)
-<img src='/Founding/Usage.png' width='1400'>
 
 ```bash
 Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type> <Optional flag>
