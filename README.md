@@ -33,7 +33,10 @@ Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution ty
 ```
 ## Utilizing Donut to generate the Shellcode
 
-To help generating shell I add to the release [donut](https://github.com/TheWover/donut) this awesome project will generate .bin shellcode providing .exe binarie.
+To help generating shell I added to the release [donut](https://github.com/TheWover/donut), this project will generate .bin shellcode providing .exe binarie that we want to run.
+```bash
+./donut --input:mimikatz.exe --output:mimi.bin
+```
 
 ## Example Command
 ```bash
