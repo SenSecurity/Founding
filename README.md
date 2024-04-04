@@ -7,8 +7,6 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 
 ### The tool has the following features for Encryption and Obfuscation:
 
-**The tool has the following features for Encryption and Obfuscation:**
-
 - Supports IPv4/IPv6/MAC/UUID Obfuscation
 
 - Supports XOR/RC4/AES encryption
@@ -17,7 +15,7 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 
 - Randomly generated encryption keys on every run
 
-**The tool has the following features for Executing the Payload:**
+### The tool has the following features for Executing the Payload:
 - Supports executes the Shellcode utilizing Asynchronous Procedure Calls
 
 - Supports executes the Shellcode utilizing Asynchronous Procedure Calls with a Remote Debug Process
