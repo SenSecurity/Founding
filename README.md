@@ -16,15 +16,15 @@ The Founding is a tool that receives a Shellcode in .bin format, Obfuscates or E
 - Randomly generated encryption keys on every run
 
 ### The tool has the following features for Executing the Shellcode:
-- Supports executing the Shellcode utilizing Asynchronous Procedure Calls
+- Asynchronous Procedure Calls
 
-- Supports executing the Shellcode utilizing Asynchronous Procedure Calls with a Remote Debug Process
+- Asynchronous Procedure Calls with a Remote Debug Process
 
-- Supports executing the Shellcode utilizing Asynchronous Procedure Calls with a Remote Suspended Process
+- Asynchronous Procedure Calls with a Remote Suspended Process
 
-- Supports executing the Shellcode utilizing Callback function EnumThreadWindows
+- Callback function EnumThreadWindows
 
-- Supports executing the Shellcode utilizing Local Mapping and Thread in Suspend State
+- Local Mapping and Thread in Suspend State
 
 ## Usage
 ![GitHub Logo](/Founding/Usage.png)
