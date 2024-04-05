@@ -70,7 +70,7 @@ Shinzo wo Sasageyo! Erwin.exe Created.
 - To utilize the compile functionality I recommend downloading the releases because it will have all the necessary dependencies.
 ## Demo
 [![Meterpreter](https://imgur.com/hucwlKw)](https://youtu.be/71vjbatJMIo)
-
+[![](https://markdown-videos-api.jorgenkh.no/youtube/71vjbatJMIo)](https://youtu.be/71vjbatJMIo)
 ## Credits
 - Some techniques used learnt from [Maldev Academy](https://maldevacademy.com), it is an awesome course, highly recommend
 - Inspired by [HellShell](https://github.com/NUL0x4C/HellShell)
