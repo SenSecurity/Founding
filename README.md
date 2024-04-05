@@ -64,10 +64,6 @@ Founding.exe mimi.bin aes APC --compile
 Compilation successful.
 Shinzo wo Sasageyo! Erwin.exe Created.
 ```
-
-## Demo
-[![Video Title](https://drive.google.com/uc?export=download&id=1Ofj5mxzzVKv2QatPMUcIXmMLho7MCj_o)
-
 ### Note
 - Shellcodes that need an interactive shell like *mimikatz* can't be used with Remote Process techniques.
 - To utilize the compile functionality I recommend downloading the releases because it will have all the necessary dependencies.
